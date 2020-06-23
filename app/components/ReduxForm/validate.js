@@ -1,0 +1,1 @@
+import {immutableToProps} from 'hocs/immutableProps'

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20px"
+   height="20px"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg3741"
+   sodipodi:docname="ico-Annotation.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3745">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ico-Transfer</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3743"
+     showgrid="false"
+     inkscape:zoom="42.5"
+     inkscape:cx="11.261397"
+     inkscape:cy="13.106525"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3741"
+     inkscape:snap-text-baseline="true" />
+  <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title3730">ico-Transfer</title>
+  <desc
+     id="desc3732">Created with Sketch.</desc>
+  <defs
+     id="defs3734" />
+  <g
+     id="Hospitals"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="BWC-Listing-Hospitals"
+       transform="translate(-30.000000, -348.000000)"
+       fill="#BEBEED">
+      <g
+         id="Sidebar">
+        <g
+           id="Menu"
+           transform="translate(16.000000, 184.000000)" />
+      </g>
+    </g>
+  </g>
+  <path
+     style="fill:#bebeed;fill-opacity:1;stroke-width:0.03843505"
+     d="M 0.15694807,19.854572 C 0.15829037,19.839102 2.0067845,15.399843 4.2647073,9.9894238 L 8.3700215,0.15229832 h 1.6412995 1.6413 l 4.106587,9.86470568 4.106584,9.864706 h -1.495377 -1.495376 l -0.225903,-0.579194 c -0.124255,-0.318559 -0.566167,-1.456263 -0.982043,-2.528233 l -0.756139,-1.949038 -4.882438,-0.0094 -4.8824375,-0.0094 -0.4885102,1.259666 c -0.2686818,0.692816 -0.7098207,1.830587 -0.980312,2.528379 l -0.4918001,1.268713 -1.5154764,0.0097 c -0.83351322,0.0053 -1.51437695,-0.003 -1.51303173,-0.0184 z M 13.974483,12.572818 c 0.003,-0.07097 -3.960194,-9.8219685 -3.9828338,-9.7989836 -0.01417,0.01441 -0.8582671,2.0947678 -1.875702,4.6230013 C 7.0985127,9.9250695 6.2110295,12.130148 6.1437634,12.297012 l -0.1223081,0.303386 h 3.9759004 c 2.1867453,0 3.9764493,-0.01235 3.9771203,-0.02759 z"
+     id="path3791"
+     inkscape:connector-curvature="0" />
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-Hospital</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Listing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BWC-Listing-Hospitals" transform="translate(-16.000000, -87.000000)" fill="#A8A8CD">
+            <g id="Sidebar">
+                <path d="M18,87 L32,87 C33.1045695,87 34,87.8954305 34,89 L34,103 C34,104.104569 33.1045695,105 32,105 L18,105 C16.8954305,105 16,104.104569 16,103 L16,89 C16,87.8954305 16.8954305,87 18,87 Z M24,100 L26,100 L26,96.9999 L29,96.9999 L29,94.9999 L26,94.9999 L26,92 L24,92 L24,94.9999 L21,94.9999 L21,96.9999 L24,96.9999 L24,100 Z" id="ico-Hospital"></path>
+            </g>
+        </g>
+    </g>
+</svg>

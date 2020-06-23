@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-Transfer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Hospitals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BWC-Listing-Hospitals" transform="translate(-30.000000, -348.000000)" fill="#BEBEED">
+            <g id="Sidebar">
+                <g id="Menu" transform="translate(16.000000, 184.000000)">
+                    <path d="M24,164 L14,171.341374 L15.8111111,172.673309 L24,178.682748 L32.1777778,172.673309 L34,171.341374 L24,164 Z M23.9888889,181.346618 L15.8,175.337179 L14,176.659675 L24,184 L34,176.659675 L32.1888889,175.326691 L23.9888889,181.346618 Z" id="ico-Transfer"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
