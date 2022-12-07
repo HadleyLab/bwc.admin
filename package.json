@@ -132,7 +132,7 @@
     "compression": "1.6.2",
     "cross-env": "5.0.0",
     "dateformat": "^3.0.3",
-    "express": "4.15.3",
+    "express": "4.17.3",
     "fabric": "^2.7.0",
     "fontfaceobserver": "2.0.9",
     "history": "4.6.3",
